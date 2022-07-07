@@ -1,0 +1,204 @@
+{
+	"Snippet-Dotenv":{
+		
+			"scope": "javascript, typescript",
+			"prefix": "dotenvSnip",
+			"body": [
+				"// ~ environnement",
+				"import 'dotenv/config';",
+				""
+			],
+			"description": "import environement variable"
+	},
+
+	"Snippet-Session" :{
+	"scope": "javascript",
+	"prefix": "sessionSnip",
+	"body": [
+		"// If you have your node.js behind a proxy and are using secure: true, you need to set 'trust proxy' in express",
+		"app.set('trust proxy', 1) // trust first proxy",
+		"",
+		"// ~ import and configure session",
+		"import session from 'express-session';",
+		"app.use(session({",
+		"\tsaveUninitialized: true,",
+		"\tresave: true,",
+		"\tsecret: process.env.SESSION_SECRET,",
+		"\tcookie: { ",
+		"\t\tsecure : true,",
+		"\t\tsameSite: 'lax', // or 'strict'",
+		"\t\tmaxAge: 24 * 60 * 60 * 1000 //24 hours",
+		"\t\t//expires : new Date(Date.now() + 60 * 60 * 1000) //1 hour",
+		"\t\t}",
+		"}));",
+		"",
+		""
+	],
+	"description": "import and configure session"
+},
+
+	"Snippet-urlEncoded":{
+		"scope": "javascript, typescript",
+		"prefix": "urlSnip",
+		"body":[
+			"// ~ url encoded",
+			"app.use(express.urlencoded({ extended: true }",
+			"app.use(express.json());"
+		],
+		"description": "create url encoded"
+	},
+
+	"Snippet-expressRouter":{
+		"scope": "javascript, typescript",
+		"prefix": "expressRouterSnip",
+		"body":[
+			"// ~ import express and configure router",
+			"import express from 'express';",
+			"const app = express();",
+			"import { router } from './app/router/index.js';"
+		],
+		"description": "import and configure express router"
+	},
+
+	"Snippet-cors":{
+		"scope": "javascript, typescript",
+		"prefix": "corsSnip",
+		"body":[
+			"// ~ cors",
+			"app.use((req, res, next) => {",
+			"\tres.setHeader('Access-Control-Allow-Origin', '*');",
+			"\tres.setHeader('Access-Control-Allow-Headers', 'Content-Type');",
+			"\tres.setHeader('Access-Control-Allow-Methods', 'GET,HEAD,OPTIONS,POST,PUT,PATCH,DELETE');",
+			"",
+			"\t// res.setHeader('Access-Control-Allow-Headers', 'Access-Control-Allow-Headers, Origin,Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers');",
+			"",
+			"\tnext();",
+			"",
+			"});"
+		],
+		"description": "import and configure express router"
+	},
+
+	"Snippet-router":{
+		"scope": "javascript, typescript",
+		"prefix": "routerSnip",
+		"body":[
+			"// Import router",
+			"import { Router } from 'express';",
+			"const router = Router();",
+			"//~ Export router",
+			"export { router };"
+		],
+		"description": "router config"
+	},
+
+	"Snippet-socket.io":{
+		"scope": "javascript, typescript",
+		"prefix": "socketSnip",
+		"body":[
+			"// ~ import et config socket.io",
+			"import { createServer } from 'http';",
+			"const server = createServer(app);",
+			"",
+			"import { Server } from 'socket.io';",
+			"const io = new Server(server);"
+		],
+		"description": "socket config"
+	},
+
+	"Snippet-errorController":{
+		"scope": "javascript, typescript",
+		"prefix": "errorControllerSnip",
+		"body":[
+			"// ~ --------------- GESTION DES ERREURS ------------------------",
+			"",
+			"function _400(req, res) {",
+			"   res.status(400).json('BAD REQUEST');",
+			"};",
+			"function _401(req, res) {",
+			"res.status(401).json('AUTHENTIFICATION ERROR');",
+			"};",
+			"function _403(req, res) {",
+			"res.status(403).json('ACCESS DENIED');",
+			"};",
+			"function _404(req, res) {",
+			"res.status(404).json('Page Not Found');",
+			"};",
+			"function _500(err, req, res) { ",
+			"res.status(500).json({'Server Error 500': err.message});",
+			"};",
+			"",
+			"export { _400,_401, _403,_404,_500 };",
+
+		],
+		"description": "error controller"
+	},
+
+	"resetCss": {
+		"scope": "css",
+		"prefix": "resetCss",
+		"body": ["/* http://meyerweb.com/eric/tools/css/reset/",
+		"",
+		"\t v2.0 | 20110126",
+		"",
+		"\t License: none (public domain)",
+		"",
+		"*/",
+		"",
+		"\t",
+		"",
+		"html, body, div, span, applet, object, iframe,",
+		"h1, h2, h3, h4, h5, h6, p, blockquote, pre,",
+		"a, abbr, acronym, address, big, cite, code,",
+		"del, dfn, em, img, ins, kbd, q, s, samp,",
+		"small, strike, strong, sub, sup, tt, var,",
+		"b, u, i, center,",
+		"dl, dt, dd, ol, ul, li,",
+		"fieldset, form, label, legend,",
+		"table, caption, tbody, tfoot, thead, tr, th, td,",
+		"article, aside, canvas, details, embed,",
+		"figure, figcaption, footer, header, hgroup,",
+		"menu, nav, output, ruby, section, summary,",
+		"time, mark, audio, video {",
+			"\t\tmargin: 0;",
+			"\t\tpadding: 0;",
+			"\t\tborder: 0;",
+			"\t\tfont-size: 100%;",
+			"\t\tfont: inherit;",
+			"\t\tvertical-align: baseline;",
+		"}",
+		"",
+		"/* HTML5 display-role reset for older browsers */",
+		"article, aside, details, figcaption, figure,",
+		"footer, header, hgroup, menu, nav, section {",
+			"\t\tdisplay: block;",
+		"}",
+		"",
+		"body {",
+			"\t\tline-height: 1;",
+		"}",
+		"",
+		"ol, ul {",
+			"\t\tlist-style: none;",
+		"}",
+		"",
+		"blockquote, q {",
+			"\t\tquotes: none;",
+		"}",
+		"",
+		"blockquote:before, blockquote:after,",
+		"",
+		"q:before, q:after {",
+		"\t content: '';",
+		"\t content: none;",
+		"}",
+		"",
+		"table {",
+		"\t\tborder-collapse: collapse;",
+		"\t\tborder-spacing: 0;",
+		"",
+		"}"],
+		"description": "Reset CSS"
+	}
+
+}
