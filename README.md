@@ -24,3 +24,14 @@
 ![](./assets/icons/icons8-docker-50.png)
 ![](./assets/icons/icons8-bash-50.png)
 <img src="./assets/icons/npm.svg" width=43px>
+
+---
+
+## My stats
+
+![](https://github-readme-stats.vercel.app/api?username=GaetanSantucci&hide=contribs&count_private=true&show_icons=true&theme=aura)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=GaetanSantucci&layout=compact&hide=contribs&count_private=true&show_icons=true&theme=aura)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=GaetanSantucci&theme=aura)
+
