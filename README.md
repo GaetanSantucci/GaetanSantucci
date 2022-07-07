@@ -22,9 +22,9 @@
 ![](./assets/icons/icons8-css3-50.png)
 ![](./assets/icons/icons8-docker-50.png)
 ![](./assets/icons/icons8-postgresql-50.png)
+![](./assets/icons/icons8-bash-50.png)
 <img src="./assets/icons/icons8-mongodb-96.png" width=48px>
 <img src="./assets/icons/github.svg" width=43px>
-![](./assets/icons/icons8-bash-50.png)
 <img src="./assets/icons/npm.svg" width=43px>
 <img src="./assets/icons/heroku.svg" width=43px>
 
