@@ -12,7 +12,7 @@
 
 ---
 
-`<div style="text-align:center;">
+
 ![](./assets/icons/icons8-javascript-50.png)
 ![](./assets/icons/icons8-node-js-50.png)
 ![](./assets/icons/icons8-html-5-50.png)
@@ -25,7 +25,8 @@
 <img src="./assets/icons/npm.svg" width=43px>
 <img src="./assets/icons/heroku.svg" width=43px>
 
-</div>
+
+---
 
 ![Metrics](https://metrics.lecoq.io/GaetanSantucci?template=classic&base.header=0&isocalendar=1&languages=1&achievements=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FParis)
 
