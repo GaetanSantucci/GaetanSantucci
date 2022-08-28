@@ -1,14 +1,16 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=GaetanSantucci.visitor-badge&left_color=black&right_color=purple&left_text=Hello%20Visitor)
 
-![](./assets/images/prez.gif)
+Hello, welcome on my github profile !
+
+I'm Gaetan Santucci
 
 ---
 
 ## About me
 
 -   🔭 I’m currently working on becoming Full Stack Developper
--   🌱 I’m currently learning javascript, postgresql, nodejs
--   📫 How to reach me: gaetan.santucci@gmail.com
+-   🌱 I’m currently learning REACT, NEXTJS
+-   📫 How to reach me: gaetan.santucci@outlook.com
 
 ---
 
@@ -21,7 +23,6 @@
 ![](./assets/icons/icons8-postgresql-50.png)
 ![](./assets/icons/icons8-bash-50.png)
 <img src="./assets/icons/icons8-mongodb-96.png" width=48px>
-<img src="./assets/icons/github.svg" width=43px>
 <img src="./assets/icons/npm.svg" width=43px>
 <img src="./assets/icons/heroku.svg" width=43px>
 
@@ -35,3 +36,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=GaetanSantucci&hide=contribs&count_private=true&show_icons=true&theme=aura)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GaetanSantucci&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D&fire=00DDB9)](https://git.io/streak-stats)
+
+
