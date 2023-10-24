@@ -1,30 +1,38 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=GaetanSantucci.visitor-badge&left_color=black&right_color=purple&left_text=Hello%20Visitor)
+![](https://komarev.com/ghpvc/?username=GaetanSantucci&color=c31432&style=for-the-badge)
 
-Hello, welcome on my github profile !
-
-I'm Gaetan Santucci
+![](./assets/images/banniere_gith.svg)
 
 ---
 
 ## About me
 
--   🔭 I’m currently working on becoming Full Stack Developper
--   🌱 I’m currently learning REACT, NEXTJS
--   📫 How to reach me: gaetan.santucci@outlook.com
+-   🔭 I'm currently continuing my training again and again
+-   🌱 I'm currently learning Angular
+-   📫 Looking for oppportunity: contact@virtualgs.fr
 
 ---
 
 
-![](./assets/icons/icons8-javascript-50.png)
-![](./assets/icons/icons8-node-js-50.png)
-![](./assets/icons/icons8-html-5-50.png)
-![](./assets/icons/icons8-css3-50.png)
-![](./assets/icons/icons8-docker-50.png)
-![](./assets/icons/icons8-postgresql-50.png)
-![](./assets/icons/icons8-bash-50.png)
-<img src="./assets/icons/icons8-mongodb-96.png" width=48px>
+<img src="./assets/icons/javascript.svg" width=43px>
+<img src="./assets/icons/typescript.svg" width=43px>
+<img src="./assets/icons/nodedotjs.svg" width=43px>
+<img src="./assets/icons/nextdotjs.svg" width=43px>
+<img src="./assets/icons/angular.svg" width=43px>
+<img src="./assets/icons/docker.svg" width=43px>
+<img src="./assets/icons/postgresql.svg" width=43px>
+<img src="./assets/icons/mongodb.svg" width=43px>
+<img src="./assets/icons/html5.svg" width=43px>
+<img src="./assets/icons/css3.svg" width=43px>
+<img src="./assets/icons/sass.svg" width=43px>
+<img src="./assets/icons/mui.svg" width=43px>
+<img src="./assets/icons/git.svg" width=43px>
+<img src="./assets/icons/gitlab.svg" width=43px>
+<img src="./assets/icons/stripe.svg" width=43px>
+<img src="./assets/icons/gnubash.svg" width=43px>
 <img src="./assets/icons/npm.svg" width=43px>
-<img src="./assets/icons/heroku.svg" width=43px>
+<img src="./assets/icons/discord.svg" width=43px>
+<img src="./assets/icons/visualstudiocode.svg" width=43px>
+<img src="./assets/icons/adobeillustrator.svg" width=43px>
 
 
 ---
