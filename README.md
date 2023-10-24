@@ -13,26 +13,7 @@
 ---
 
 
-<img src="./assets/icons/javascript.svg" width=43px>
-<img src="./assets/icons/typescript.svg" width=43px>
-<img src="./assets/icons/nodedotjs.svg" width=43px>
-<img src="./assets/icons/nextdotjs.svg" width=43px>
-<img src="./assets/icons/angular.svg" width=43px>
-<img src="./assets/icons/docker.svg" width=43px>
-<img src="./assets/icons/postgresql.svg" width=43px>
-<img src="./assets/icons/mongodb.svg" width=43px>
-<img src="./assets/icons/html5.svg" width=43px>
-<img src="./assets/icons/css3.svg" width=43px>
-<img src="./assets/icons/sass.svg" width=43px>
-<img src="./assets/icons/mui.svg" width=43px>
-<img src="./assets/icons/git.svg" width=43px>
-<img src="./assets/icons/gitlab.svg" width=43px>
-<img src="./assets/icons/stripe.svg" width=43px>
-<img src="./assets/icons/gnubash.svg" width=43px>
-<img src="./assets/icons/npm.svg" width=43px>
-<img src="./assets/icons/discord.svg" width=43px>
-<img src="./assets/icons/visualstudiocode.svg" width=43px>
-<img src="./assets/icons/adobeillustrator.svg" width=43px>
+<img src="./assets/icons/javascript.svg" width=43px><img src="./assets/icons/typescript.svg" width=43px><img src="./assets/icons/nodedotjs.svg" width=43px><img src="./assets/icons/nextdotjs.svg" width=43px><img src="./assets/icons/angular.svg" width=43px><img src="./assets/icons/docker.svg" width=43px><img src="./assets/icons/postgresql.svg" width=43px><img src="./assets/icons/mongodb.svg" width=43px><img src="./assets/icons/html5.svg" width=43px><img src="./assets/icons/css3.svg" width=43px><img src="./assets/icons/sass.svg" width=43px><img src="./assets/icons/mui.svg" width=43px><img src="./assets/icons/git.svg" width=43px><img src="./assets/icons/gitlab.svg" width=43px><img src="./assets/icons/stripe.svg" width=43px><img src="./assets/icons/gnubash.svg" width=43px><img src="./assets/icons/npm.svg" width=43px><img src="./assets/icons/discord.svg" width=43px><img src="./assets/icons/visualstudiocode.svg" width=43px><img src="./assets/icons/adobeillustrator.svg" width=43px>
 
 
 ---
