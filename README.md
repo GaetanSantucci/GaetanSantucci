@@ -8,12 +8,12 @@
 
 -   🔭 I'm currently continuing my training again and again
 -   🌱 I'm currently learning Angular
--   📫 Looking for oppportunity: contact@virtualgs.fr
+-   📫 Looking for oppportunity as freelancer: contact@virtualgs.fr
 
 ---
 
 
-<img src="./assets/icons/javascript.svg" width=36> <img src="./assets/icons/typescript.svg" width=36> <img src="./assets/icons/nodedotjs.svg" width=36> <img src="./assets/icons/nextdotjs.svg" width=36> <img src="./assets/icons/angular.svg" width=36> <img src="./assets/icons/docker.svg" width=36> <img src="./assets/icons/postgresql.svg" width=36><img src="./assets/icons/mongodb.svg" width=36><img src="./assets/icons/html5.svg" width=36> <img src="./assets/icons/css3.svg" width=36> <img src="./assets/icons/sass.svg" width=36> <img src="./assets/icons/mui.svg" width=36> <img src="./assets/icons/git.svg" width=36> <img src="./assets/icons/gitlab.svg" width=36> <img src="./assets/icons/stripe.svg" width=36> <img src="./assets/icons/gnubash.svg" width=36> <img src="./assets/icons/npm.svg" width=36> <img src="./assets/icons/discord.svg" width=36> <img src="./assets/icons/visualstudiocode.svg" width=36> <img src="./assets/icons/adobeillustrator.svg" width=36>
+<img src="./assets/icons/javascript.svg" width=36> <img src="./assets/icons/typescript.svg" width=36> <img src="./assets/icons/nodedotjs.svg" width=36> <img src="./assets/icons/nextdotjs.svg" width=36> <img src="./assets/icons/angular.svg" width=36> <img src="./assets/icons/docker.svg" width=36> <img src="./assets/icons/postgresql.svg" width=36><img src="./assets/icons/mongodb.svg" width=36><img src="./assets/icons/html5.svg" width=36> <img src="./assets/icons/css3.svg" width=36> <img src="./assets/icons/sass.svg" width=36> <img src="./assets/icons/mui.svg" width=36> <img src="./assets/icons/git.svg" width=36> <img src="./assets/icons/gitlab.svg" width=36><img src="./assets/icons/stripe.svg" width=36><img src="./assets/icons/gnubash.svg" width=36> <img src="./assets/icons/npm.svg" width=36> <img src="./assets/icons/discord.svg" width=36> <img src="./assets/icons/visualstudiocode.svg" width=36> <img src="./assets/icons/adobeillustrator.svg" width=36>
 
 
 ---
